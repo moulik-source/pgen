@@ -1,7 +1,7 @@
 # pgen
 Pgen is the best brute force password generator and it is improved from the cupp.py 
 
-#### The pgen tool is dedicated to Leonardo da Vinci
+#### The pgen tool is dedicated to El barto
 
 *-Time stays long enough for anyone who will use it.*
 
