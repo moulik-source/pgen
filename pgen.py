@@ -3,7 +3,7 @@
 #  [Program]
 #
 #  Pgen
-#  Fuck my dick& ass
+#  
 #
 #  [Author]
 #
@@ -156,11 +156,11 @@ def print_to_file(filename, unique_list_finished):
 
 def print_cow():
     print(" ___________ ")
-    print(" \033[07m  pgen.py! \033[27m                # \033[07mF\033[27muck")
+    print(" \033[07m  pgen.py! \033[27m                # \033[07mF\033[27m")
     print("      \                     # \033[07mM\033[27my")
-    print("       \   \033[1;31m,__,\033[1;m             # \033[07mA\033[27mss&")
+    print("       \   \033[1;31m,__,\033[1;m             # \033[07mA\033[27m&")
     print(
-        "        \  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # \033[07mD\033[27mick"
+        "        \  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # \033[07mD\033[27m"
     )
     print("           \033[1;31m(__)    )\ \033[1;m  ")
     print(
