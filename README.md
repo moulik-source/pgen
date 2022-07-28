@@ -15,9 +15,6 @@ cd pgen
 python3 pgen -i 
 
 ```
-# Interface
-
-![2022-01-15 23_20_09-Kali-Linux 2021 3 (64bit) - VMware Workstation 16 Player (Non-commercial use onl](https://user-images.githubusercontent.com/62848840/149632316-9318f701-416f-4b07-96b8-6fcb905a6893.png)
 
 # Disclaimer
 
